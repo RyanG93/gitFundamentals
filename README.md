@@ -8,3 +8,4 @@
 
 - [git init](./commands/Init.md)
 - [git add](./commands/Add.md)
+- [git commit](./commands/Commit.md)
